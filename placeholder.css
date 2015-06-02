@@ -1,0 +1,21 @@
+.pl-wrap {
+	position: relative;
+	width: 280px;
+	height: 40px;
+	border: 1px solid #e5e5e5;
+	background: red;
+}
+.pl-input {
+	display: block;
+	width: 260px;
+	padding: 10px 10px;
+	line-height: 20px;
+	font-size: 16px;
+	vertical-align: middle;
+}
+.pl-holder {
+	position: absolute;
+	top: 0;
+	left: 10px;
+	line-height: 40px;
+}
